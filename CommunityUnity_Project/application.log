@@ -1,0 +1,17 @@
+03-03-2021 21:32:54 {INFO} [com.revature.main.Application] - Log from Connection INFO
+03-03-2021 21:32:54 {DEBUG} [com.revature.main.Application] - Message from DEBUG
+03-03-2021 21:32:54 {FATAL} [com.revature.main.Application] - Message from FATAL
+03-03-2021 21:32:54 {WARN} [com.revature.main.Application] - Message from WARN
+03-03-2021 21:32:54 {ERROR} [com.revature.main.Application] - Message from ERROR
+03-03-2021 21:43:21 {INFO} [com.revature.main.Application] - Log connection INFO
+03-03-2021 21:43:21 {DEBUG} [com.revature.main.Application] - Message from DEBUG
+03-03-2021 21:43:21 {FATAL} [com.revature.main.Application] - Message from FATAL
+03-03-2021 21:43:21 {WARN} [com.revature.main.Application] - Message from WARN
+03-03-2021 21:43:21 {ERROR} [com.revature.main.Application] - Message from ERROR
+03-04-2021 04:57:35 {INFO} [com.revature.main.Application] - Log connection INFO
+03-04-2021 08:23:18 {INFO} [com.revature.main.Application] - Log connection INFO
+03-04-2021 17:55:57 {INFO} [com.revature.ui.UserMenu] - Test Choice 2 again. Should take user to Main Menu
+03-04-2021 17:58:40 {ERROR} [com.revature.ui.MainMenu] - Choice 3 does not exit application
+03-04-2021 17:58:40 {INFO} [com.revature.main.Application] - Log connection INFO
+03-04-2021 18:00:31 {INFO} [com.revature.ui.UserMenu] - Test Choice 2 again. Should take user to Main Menu
+03-04-2021 18:07:14 {ERROR} [com.revature.ui.AccountMenu] - Account object and try/catch block caused error messages.
